@@ -24,10 +24,8 @@ This project has a pretty straight forward objectives getting a home network up 
 - Clients device montioring to add clients to network and make all vlans and firewall ploices are being followed.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Below are screenshots that will refer the network the steps take for basic setup
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
+Note: some parts of the image will be redacted for privcy
 
 *Ref 1: Network Diagram*

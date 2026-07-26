@@ -32,3 +32,7 @@ Ref: First we obtain Internet access though are ISP and connected our Unifi rout
 
 ![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/ChatGPT%20Image%20Jul%2025,%202026,%2009_21_45%20PM.png?raw=true)
 
+Ref 2: Next we created several Vlans for our devices including a main newtork, IoT network, Camera network and a Guest network (note:
+the guest network was setup as a hotspot network for untrusted device as well as having a landing paper)
+
+![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/Screenshot%20from%202026-07-25%2014-57-17.png?raw=true)

@@ -28,4 +28,7 @@ Below are screenshots that will refer the network the steps take for basic setup
 
 Note: some parts of the image will be redacted for privcy
 
-*Ref 1: Network Diagram*
+Ref: First we obtain Internet access though are ISP and connected our Unifi router and 16 port Switch
+
+![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/Screenshot%20from%202026-07-25%2014-55-19.png?raw=true)
+

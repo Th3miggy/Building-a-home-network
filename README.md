@@ -48,3 +48,7 @@ Ref 4: After the Vlans network were establish we created Wifi for though Vlans (
 Ref 5: Once Vlans and wifi were online created firewall policy for device on the network.
 
 ![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/Screenshot%20from%202026-07-25%2014-57-48.png?raw=true)
+
+Ref 6: After all that work we could finally start bring device on to the network making sure they join the correct network Vlans and using OVN if needed.
+
+![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/ChatGPT%20Image%20Jul%2025,%202026,%2009_48_28%20PM.png?raw=true)

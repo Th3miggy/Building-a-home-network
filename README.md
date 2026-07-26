@@ -34,7 +34,7 @@ Ref 1: First we obtain Internet access though are ISP and connected our Unifi ro
 
 Ref 2: After that other Unifi device were add to the network including a accesspoint and a NVR with several cameras
 
-![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/Screenshot%20from%202026-07-25%2014-56-22.png?raw=true)
+![not-working](https://github.com/Th3miggy/Building-a-home-network/blob/main/ChatGPT%20Image%20Jul%2025,%202026,%2009_40_58%20PM.png?raw=true)
 
 Ref 3: Next we created several Vlans for our devices including a main newtork, IoT network, Camera network and a Guest network (note:
 the guest network was setup as a hotspot network for untrusted device as well as having a landing paper)
